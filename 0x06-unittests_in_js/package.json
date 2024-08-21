@@ -1,0 +1,10 @@
+{
+  "name": "alx-backend-apis",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "8-api",
+    "9-api"
+  ]
+}
+
